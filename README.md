@@ -6,4 +6,4 @@ Probe the internet privately
 
 ## Visit site
 
-[![Probe the internet privately](https://github.com/Aluminum-Depot/Tinf0il-new/blob/main/button.svg)](https://tinf0il.tech)
+[![Probe the internet privately](https://github.com/Aluminum-Depot/Tinf0il-new/blob/main/button.svg)](https://tinf0il-new)
